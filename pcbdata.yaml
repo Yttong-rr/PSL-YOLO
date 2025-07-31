@@ -1,0 +1,5 @@
+train: D:\shujvji\pcbdateset\images\train
+test: D:\shujvji\pcbdateset\Test
+val: D:\shujvji\pcbdateset\images\val
+nc: 6
+names: ["missing_hole",'mouse_bite','open_circuit','short','spur','spurious_copper']

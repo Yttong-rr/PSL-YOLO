@@ -1,0 +1,5 @@
+train: D:\shujvji\DataYAPS\images\train
+test: D:\shujvji\DataYAPS\images\test
+val: D:\shujvji\DataYAPS\images\val
+nc: 10
+names: ['Depression','Non-conductive','Scratching','Orange peel','Base leakage','Bruising','Pockmarking','Bumping','Coating cracking','Dirt spots']

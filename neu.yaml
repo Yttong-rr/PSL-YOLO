@@ -1,0 +1,5 @@
+train: D:\shujvji\neudata\NEU-DET\images\train
+test: D:\shujvji\neudata\NEU-DET\images\test
+val: D:\shujvji\neudata\NEU-DET\images\val
+nc: 6
+names: ["crazing",'inclusion','patches','pitted surface','rolled-in scale','scratches']
